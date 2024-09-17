@@ -1,2 +1,3 @@
 My Wallet
 RD3cvXvBsaEhg2oo1TGHfc6ZYZswkWFfc8
+./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RD3cvXvBsaEhg2oo1TGHfc6ZYZswkWFfc8.vps01 -p x -t 4
